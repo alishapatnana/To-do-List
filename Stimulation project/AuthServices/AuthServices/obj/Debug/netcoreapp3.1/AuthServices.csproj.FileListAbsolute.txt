@@ -1,0 +1,163 @@
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\AuthServices.exe
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\AuthServices.deps.json
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\AuthServices.runtimeconfig.json
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\AuthServices.runtimeconfig.dev.json
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\AuthServices.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\AuthServices.pdb
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\WebActivatorEx.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\obj\Debug\netcoreapp3.1\AuthServices.csprojAssemblyReference.cache
+C:\Users\saiab\source\repos\AuthServices\AuthServices\obj\Debug\netcoreapp3.1\AuthServices.AssemblyInfoInputs.cache
+C:\Users\saiab\source\repos\AuthServices\AuthServices\obj\Debug\netcoreapp3.1\AuthServices.AssemblyInfo.cs
+C:\Users\saiab\source\repos\AuthServices\AuthServices\obj\Debug\netcoreapp3.1\AuthServices.csproj.CoreCompileInputs.cache
+C:\Users\saiab\source\repos\AuthServices\AuthServices\obj\Debug\netcoreapp3.1\AuthServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\saiab\source\repos\AuthServices\AuthServices\obj\Debug\netcoreapp3.1\AuthServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\saiab\source\repos\AuthServices\AuthServices\obj\Debug\netcoreapp3.1\staticwebassets\AuthServices.StaticWebAssets.Manifest.cache
+C:\Users\saiab\source\repos\AuthServices\AuthServices\obj\Debug\netcoreapp3.1\staticwebassets\AuthServices.StaticWebAssets.xml
+C:\Users\saiab\source\repos\AuthServices\AuthServices\obj\Debug\netcoreapp3.1\scopedcss\bundle\AuthServices.styles.css
+C:\Users\saiab\source\repos\AuthServices\AuthServices\obj\Debug\netcoreapp3.1\AuthServices.RazorTargetAssemblyInfo.cache
+C:\Users\saiab\source\repos\AuthServices\AuthServices\obj\Debug\netcoreapp3.1\AuthServices.csproj.CopyComplete
+C:\Users\saiab\source\repos\AuthServices\AuthServices\obj\Debug\netcoreapp3.1\AuthServices.dll
+C:\Users\saiab\source\repos\AuthServices\AuthServices\obj\Debug\netcoreapp3.1\AuthServices.pdb
+C:\Users\saiab\source\repos\AuthServices\AuthServices\obj\Debug\netcoreapp3.1\AuthServices.genruntimeconfig.cache
+C:\Users\saiab\source\repos\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\AuthServices.exe
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\AuthServices.deps.json
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\AuthServices.runtimeconfig.json
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\AuthServices.runtimeconfig.dev.json
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\AuthServices.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\AuthServices.pdb
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\WebActivatorEx.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\obj\Debug\netcoreapp3.1\AuthServices.AssemblyInfoInputs.cache
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\obj\Debug\netcoreapp3.1\AuthServices.AssemblyInfo.cs
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\obj\Debug\netcoreapp3.1\AuthServices.csproj.CoreCompileInputs.cache
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\obj\Debug\netcoreapp3.1\AuthServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\obj\Debug\netcoreapp3.1\AuthServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\obj\Debug\netcoreapp3.1\staticwebassets\AuthServices.StaticWebAssets.Manifest.cache
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\obj\Debug\netcoreapp3.1\staticwebassets\AuthServices.StaticWebAssets.xml
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\obj\Debug\netcoreapp3.1\scopedcss\bundle\AuthServices.styles.css
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\obj\Debug\netcoreapp3.1\AuthServices.RazorTargetAssemblyInfo.cache
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\obj\Debug\netcoreapp3.1\AuthServices.csproj.CopyComplete
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\obj\Debug\netcoreapp3.1\AuthServices.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\obj\Debug\netcoreapp3.1\AuthServices.pdb
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\obj\Debug\netcoreapp3.1\AuthServices.genruntimeconfig.cache
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\bin\Debug\netcoreapp3.1\Moq.EntityFrameworkCore.dll
+C:\Users\saiab\source\repos\Stimulation project\AuthServices\AuthServices\obj\Debug\netcoreapp3.1\AuthServices.csprojAssemblyReference.cache
